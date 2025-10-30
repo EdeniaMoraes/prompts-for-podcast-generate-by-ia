@@ -91,9 +91,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;</p>
 </p>
-<br/><br/>
----
+<br/>
+
+<hr>
+
 <br> 
+
 ## 🎙️ Minha Entrega do Desafio
 
 ### 📝 Prompts Utilizados
@@ -178,6 +181,6 @@ Iluminação suave, estilo ilustrativo moderno (flat design ou 3D sutil).
 
 #### 5. Título Final Escolhido
     
-* **Título do Podcast:** [Remediando]
-* **Tema Principal:** [Uso Correto]
+* **Título do Podcast:** Remediando
+* **Tema Principal:** Uso Correto
 * **Slogan:** Um papo rápido pra não errar na dose.
